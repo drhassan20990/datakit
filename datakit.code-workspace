@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "datakit",
+			"path": "datakit"
+		},
+		{
+			"name": "datakit-1",
+			"path": "datakit-1"
+		}
+	],
+	"settings": {}
+}
